@@ -24,7 +24,9 @@ part of the CI/CD pipeline
 
 ### Details of project   
 
-Project files: https://github.com/Mauricio-Camilo/java-maven-app/tree/feature/ansible
+This project uses the java-maven-app repository, specifically the feasture/ansible branch.
+
+link of the repository: https://github.com/Mauricio-Camilo/java-maven-app/tree/feature/ansible
 
 - Create a New Instance for Installing Ansible
 
