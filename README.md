@@ -24,7 +24,7 @@ part of the CI/CD pipeline
 
 ### Details of project   
 
-This project uses the java-maven-app repository, specifically the feasture/ansible branch.
+This project uses the java-maven-app repository, specifically the feature/ansible branch.
 
 link of the repository: https://github.com/Mauricio-Camilo/java-maven-app/tree/feature/ansible
 
